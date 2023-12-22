@@ -39,4 +39,3 @@ plt.xlabel('Number of values')
 plt.ylabel('GLD Price')
 plt.legend()
 plt.show()
-     
